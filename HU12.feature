@@ -1,4 +1,5 @@
-Feature: HU12: Como usuario arrendador, quiero poder gestionar mi horario de disponibilidad de mí estacionamiento para tener un control más eficiente de mis días hábiles de disponibilidad
+Feature: HU12: Como usuario arrendador, quiero poder gestionar mi horario de disponibilidad de mí estacionamiento para tener un control más eficiente de 
+mis días hábiles de disponibilidad
 Scenario: E01: Usuario arrendador ingresa en la sección de gestión de horarios
    
     Given el usuario arrendador se encuentra en la sección de “Gestiona tus clientes”
