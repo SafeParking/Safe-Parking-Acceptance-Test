@@ -18,4 +18,4 @@ Scenario: E02: Usuario arrendador seleccione su horario disponible
 
     Examples: 
         | Dueño de estacionamiento | Navegación en "gestión de horaios disponibles" | Boton generar | Resultado 
-        | Pablo Marmol             | Elige el forma de horario y disponibilidad                 | clic()        | Aplicativo mostrará "Pablo marmol" y el horario elejido. 
+        | Pablo Marmol             | Elige el forma de horario y disponibilidad     | clic()        | Aplicativo mostrará "Pablo marmol" y el horario elejido. 
